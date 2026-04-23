@@ -115,4 +115,4 @@ If Roger Wayback helps you find vulnerabilities, consider [supporting the projec
 
 ## License
 
-MIT License - Created by [Ashlee (Jessica Rabbit)](https://github.com/jrabbit00)
+MIT License - Created by [J Rabbit](https://github.com/jrabbit00)
